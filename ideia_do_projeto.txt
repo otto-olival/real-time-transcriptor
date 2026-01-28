@@ -1,0 +1,1 @@
+A ideia do projeto é fazer um tradutor ou transcritor para conversas em tempo real
